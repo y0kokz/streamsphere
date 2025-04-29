@@ -1,7 +1,7 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body { font-family: Arial, sans-serif; background: #111; color: #fff;       
-  background-image: my-website/bg.png;
+  background-image: url('bg.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
